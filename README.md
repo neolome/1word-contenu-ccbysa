@@ -18,7 +18,7 @@ sa `source`, sa `licence` et, quand elle existe, l'`url` d'origine.
 
 ## Contenu
 
-- `mots/` — 1 264 536 entrées (mot + définition) : cs 25 679 · de 62 287 · el 42 253 · en 254 275 · es 45 153 · fr 132 266 · id 14 053 · it 27 350 · ja 36 181 · ko 274 906 · la 1 401 · nl 74 509 · pl 45 729 · pt 38 706 · ru 108 530 · tr 42 414 · vi 15 597 · zh-Hans 11 622 · zh-Hant 11 625
+- `mots/` — 1 264 384 entrées (mot + définition) : cs 25 679 · de 62 287 · el 42 223 · en 254 275 · es 45 153 · fr 132 266 · id 14 053 · it 27 350 · ja 36 181 · ko 274 906 · la 1 401 · nl 74 509 · pl 45 729 · pt 38 706 · ru 108 432 · tr 42 414 · vi 15 597 · zh-Hans 11 610 · zh-Hant 11 613
 - `citations/` — 80 330 entrées (citations et idiomes) : cs 3 187 · de 2 710 · el 1 520 · en 5 951 · es 7 322 · fr 6 253 · id 11 · it 3 508 · ja 2 744 · ko 11 113 · nl 548 · pl 2 901 · pt 8 155 · ro 350 · ru 11 009 · sv 963 · tr 5 069 · vi 727 · zh-Hant 6 289
 
 Format : un objet JSON par ligne (JSONL), UTF-8.
